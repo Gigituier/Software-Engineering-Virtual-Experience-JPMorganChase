@@ -2,8 +2,6 @@
 
 [JPMorgan Chase](https://www.jpmorganchase.com/)
 
-This repository contains my solutions and work for the Software Engineering Virtual Experience program offered by JPMorgan Chase on [theforage.com](https://www.theforage.com/virtual-internships/prototype/NfM9mDWvk8bXbqHbk/JP-Morgan-Chase-Software-Engineering-Virtual-Experience).
-
 ## Overview
 
 The Software Engineering Virtual Experience program simulates the work of a software engineer at JPMorgan Chase. It provides an opportunity to practice technical skills, such as financial data analysis, Python programming, Git, React, TypeScript, web applications, and financial analysis, while contributing to the open-source community.
